@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\BrickWork\BrickWork\bin\Debug\BrickWork.exe.config
+C:\Users\user\Desktop\BrickWork\BrickWork\bin\Debug\BrickWork.exe
+C:\Users\user\Desktop\BrickWork\BrickWork\bin\Debug\BrickWork.pdb
+C:\Users\user\Desktop\BrickWork\BrickWork\obj\Debug\BrickWork.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BrickWork\BrickWork\obj\Debug\BrickWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BrickWork\BrickWork\obj\Debug\BrickWork.exe
+C:\Users\user\Desktop\BrickWork\BrickWork\obj\Debug\BrickWork.pdb
